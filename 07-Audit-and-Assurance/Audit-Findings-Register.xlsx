@@ -1,0 +1,4 @@
+| Finding ID | Audit Area        | Finding Description                | Severity | Recommended Action       | Owner              | Status |
+| ---------- | ----------------- | ---------------------------------- | -------- | ------------------------ | ------------------ | ------ |
+| F-01       | Access Control    | User access reviews not documented | Medium   | Formalise review process | IT Manager         | Open   |
+| F-02       | Incident Response | No tabletop exercise conducted     | Low      | Schedule annual exercise | Compliance Manager | Open   |
