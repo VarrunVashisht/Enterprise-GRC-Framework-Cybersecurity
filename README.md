@@ -83,3 +83,7 @@ This project demonstrates the ability to design, implement, and manage
 a practical GRC program aligned with cyber security and regulatory
 requirements, suitable for GRC Analyst, Cyber Risk Analyst, and
 Compliance roles.
+
+---
+
+## Author: Varrun Vashisht
