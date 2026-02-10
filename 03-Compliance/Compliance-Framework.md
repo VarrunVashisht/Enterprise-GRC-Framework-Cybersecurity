@@ -2,10 +2,10 @@
 
 ## 1. Purpose
 This framework defines the organisation’s approach to 
--identifying,
--managing, 
--monitoring, 
--and reporting compliance obligations.
+identifying,
+managing, 
+monitoring, 
+and reporting compliance obligations.
 
 ## 2. Scope
 This framework applies to all regulatory, contractual, and internal policy requirements.
